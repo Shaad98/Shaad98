@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Full Stack + DevOps Projects**
+- 🔭 Currently building **Full Stack & DevOps Projects**
 - 🌱 Learning **Spring Boot, Microservices & Kubernetes**
 - 💬 Ask me about **Core Java, OOP, SQL, Docker**
 - ⚡ Interested in **Backend Engineering & Cloud DevOps**
@@ -49,7 +49,7 @@
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,angular" />
 </p>
 
 ### ⚙️ DevOps & Cloud
@@ -67,15 +67,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shaad98&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shaad98&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaad98&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shaad98&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaad98&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaad98&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

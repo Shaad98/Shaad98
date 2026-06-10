@@ -44,7 +44,7 @@
 
 ### 💻 Programming & Backend
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,postgresql" />
+<img src="https://skillicons.dev/icons?i=java,python,c,postgresql,mongodb" />
 </p>
 
 ### 🌐 Frontend
@@ -54,7 +54,7 @@
 
 ### ⚙️ DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,jenkins,terraform" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,jenkins,terraform,aws" />
 </p>
 
 ### 🛠 Tools & Technologies

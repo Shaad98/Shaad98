@@ -54,7 +54,7 @@
 
 ### ⚙️ DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,jenkins" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,jenkins,terraform" />
 </p>
 
 ### 🛠 Tools & Technologies

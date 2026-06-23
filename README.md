@@ -44,7 +44,7 @@
 
 ### 💻 Programming & Backend
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,python,go,c,postgresql,mongodb" />
 </p>
 
 ### 🌐 Frontend

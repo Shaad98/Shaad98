@@ -9,13 +9,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Full Stack & DevOps Projects**
-- 🌱 Learning **Spring Boot, Microservices & Kubernetes**
-- 💬 Ask me about **Core Java, OOP, SQL, Docker**
-- ⚡ Interested in **Backend Engineering & Cloud DevOps**
-- 🎯 Goal: Become a **Production-ready Backend & DevOps Engineer**
+- 💻 Passionate about **Backend Development, Cloud & DevOps**
+- 🚀 Building projects using **Java, Spring Boot, Go, Docker & Kubernetes**
+- 🌱 Currently exploring **Terraform, AWS, CI/CD, Microservices & AI/RAG**
+- 💬 Happy to discuss **Java, Go, Docker, Kubernetes, SQL & System Design**
+- 🎯 Working toward becoming a **Backend & Cloud Engineer focused on scalable production systems**
 - 📫 Reach me at: **shaadbangi98@gmail.com**
-
 ---
 
 ## 🌐 Connect With Me

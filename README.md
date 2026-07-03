@@ -82,8 +82,10 @@
 ## 🚀 Current Focus
 
 ```bash
-✔ Spring Boot REST APIs
-✔ Docker & Containerization
-✔ Kubernetes Fundamentals
-✔ System Design Basics
-✔ Angular Frontend Integration
+✔ Building AI-Powered RAG Platform
+✔ Spring Boot Microservices & Spring Cloud
+✔ Docker & Kubernetes
+✔ AWS & Terraform
+✔ CI/CD & DevOps
+✔ System Design
+```

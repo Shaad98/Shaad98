@@ -41,26 +41,45 @@
 
 ## 🧰 Tech Stack
 
-### 💻 Programming & Backend
+### ☕ Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,go,c,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,python,go,c" />
 </p>
 
-### 🌐 Frontend
+### 🚀 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,postgresql,mongodb" />
+</p>
+
+### 🎨 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,angular" />
 </p>
 
-### ⚙️ DevOps & Cloud
+### 🐳 Containers & Orchestration
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,jenkins,terraform,aws" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
-### 🛠 Tools & Technologies
+### ☁️ Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform" />
+</p>
+
+### 🔄 CI/CD & Version Control
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,jenkins" />
+</p>
+
+### 💻 Development Tools
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
 </p>
 
+### 🐧 Operating System
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
 ---
 
 ## 📊 GitHub Stats

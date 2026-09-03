@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shaad Bangi</h1>
-<h3 align="center">🚀 Full Stack Developer | DevOps Enthusiast | Java & Spring Boot Learner</h3>
+
+<h3 align="center">
+Backend Developer | Java & Spring Boot | Cloud & DevOps
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaad98&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -9,77 +12,183 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Passionate about **Backend Development, Cloud & DevOps**
-- 🚀 Building projects using **Java, Spring Boot, Go, Docker & Kubernetes**
-- 🌱 Currently exploring **Terraform, AWS, CI/CD, Microservices & AI/RAG**
-- 💬 Happy to discuss **Java, Go, Docker, Kubernetes, SQL & System Design**
-- 🎯 Working toward becoming a **Backend & Cloud Engineer focused on scalable production systems**
-- 📫 Reach me at: **shaadbangi98@gmail.com**
+I'm a backend-focused developer who enjoys building applications and understanding what happens behind the scenes when they run in production.
+
+Most of my current work revolves around **Java, Spring Boot, Microservices, Docker, Kubernetes, AWS and Terraform**.
+
+I'm also building an **AI-powered RAG platform** as a way to learn how authentication, microservices, caching, AI processing and cloud infrastructure fit together in a real-world system.
+
+I'm particularly interested in **backend engineering, distributed systems, cloud infrastructure and DevOps**.
+
+* ☕ Building backend applications with **Java & Spring Boot**
+* 🏗️ Working with **Microservices, REST APIs & distributed systems**
+* ⚡ Using **PostgreSQL & Redis** for data and caching
+* 🐳 Learning **Docker & Kubernetes**
+* ☁️ Exploring **AWS & Terraform**
+* 🤖 Building an **AI/RAG platform**
+* 📚 Currently improving my **System Design & Cloud Architecture** skills
+
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/shaad-bangi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/shaad-bangi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
 
-<a href="https://instagram.com/shaad-bangi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+  <a href="https://instagram.com/shaad-bangi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 
-<a href="https://www.hackerrank.com/shaad-bangi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
+  <a href="https://www.hackerrank.com/shaad-bangi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
 
-<a href="https://leetcode.com/shaad98" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
+  <a href="https://leetcode.com/shaad98" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/leet-code.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 ### ☕ Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,go,c" />
+  <img src="https://skillicons.dev/icons?i=java,go,python,c" />
 </p>
 
 ### 🚀 Backend
+
 <p>
-<img src="https://skillicons.dev/icons?i=spring,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=spring,postgresql,mongodb,redis" />
 </p>
 
 ### 🎨 Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,angular" />
 </p>
 
 ### 🐳 Containers & Orchestration
+
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
 ### ☁️ Cloud & Infrastructure
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,terraform" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform" />
 </p>
 
 ### 🔄 CI/CD & Version Control
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,jenkins" />
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins" />
 </p>
 
-### 💻 Development Tools
+### 🔧 Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,linux" />
 </p>
 
-### 🐧 Operating System
-<p>
-<img src="https://skillicons.dev/icons?i=linux,windows" />
-</p>
+---
+
+## 🚀 What I'm Building
+
+### 🤖 AI-Powered RAG Platform
+
+I'm currently building a **microservices-based AI/RAG platform** to explore how a modern backend system can be designed and deployed.
+
+The project includes:
+
+* 🔐 Authentication & authorization
+* 🌐 API Gateway
+* 🧩 Spring Boot microservices
+* ⚡ Redis caching & token management
+* 🐘 PostgreSQL persistence
+* 🤖 AI processing with Python
+* 🐳 Dockerized services
+* ☸️ Kubernetes deployment
+* ☁️ AWS infrastructure
+* 🏗️ Terraform for Infrastructure as Code
+* 🔄 CI/CD automation
+
+The goal isn't just to build the application — I'm using the project to understand how **backend services, security, infrastructure and deployment work together in production**.
+
+---
+
+## ☸️ Cloud & DevOps
+
+Currently spending a lot of time learning and practicing:
+
+```text
+Docker
+Kubernetes
+AWS
+Terraform
+Linux
+Nginx
+CI/CD
+GitHub
+Jenkins
+```
+
+My current learning path looks roughly like this:
+
+```text
+Application
+     ↓
+Spring Boot / Microservices
+     ↓
+Docker
+     ↓
+CI/CD
+     ↓
+AWS Infrastructure
+     ↓
+Kubernetes
+     ↓
+Production
+```
+
+---
+
+## 📚 Currently Learning
+
+```text
+☕ Advanced Java & Spring Boot
+🏗️ Microservices Architecture
+🧠 System Design
+☸️ Kubernetes
+☁️ AWS
+🏗️ Terraform
+⚡ Redis & PostgreSQL
+🔄 CI/CD & DevOps
+🤖 AI / RAG Systems
+```
+
+---
+
+## 🎯 What I Enjoy
+
+I enjoy working on problems around:
+
+* Backend architecture
+* APIs and microservices
+* Authentication and security
+* Databases and caching
+* Cloud infrastructure
+* Container orchestration
+* Distributed systems
+* AI-powered applications
+
+I'm especially interested in understanding **why a system is designed a certain way**, not just making the code work.
+
 ---
 
 ## 📊 GitHub Stats
@@ -98,13 +207,6 @@
 
 ---
 
-## 🚀 Current Focus
-
-```bash
-✔ Building AI-Powered RAG Platform
-✔ Spring Boot Microservices & Spring Cloud
-✔ Docker & Kubernetes
-✔ AWS & Terraform
-✔ CI/CD & DevOps
-✔ System Design
-```
+<p align="center">
+  <i>Building backend systems, learning cloud, and getting better one project at a time. 🚀</i>
+</p>

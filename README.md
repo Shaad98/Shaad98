@@ -242,33 +242,38 @@ I'm especially interested in understanding **why a system is designed a certain 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=shaad98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420"
+    src="https://github-readme-stats.vercel.app/api?username=shaad98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420&cache_seconds=1800"
     alt="Shaad's GitHub Stats"
   />
+</p>
+
+<p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaad98&layout=compact&theme=tokyonight&hide_border=true&card_width=280"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaad98&layout=compact&theme=tokyonight&hide_border=true&card_width=420&cache_seconds=1800"
     alt="Shaad's Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shaad98&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=shaad98&theme=tokyonight&hide_border=true"
     alt="Shaad's GitHub Streak"
   />
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity (Full Contribution Calendar)
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shaad98&theme=tokyo-night&hide_border=true"
-    alt="Shaad's GitHub Activity Graph"
+    src="https://ghchart.rshah.org/40c463/shaad98"
+    alt="Shaad's GitHub Contribution Graph"
   />
 </p>
+
+> This shows the full daily contribution calendar (not just a 31-day window), so every consecutive commit day — starting from when I began committing — shows up as a filled square.
 
 ---
 

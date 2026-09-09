@@ -38,19 +38,16 @@ I'm particularly interested in:
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/shaad-bangi">
+  <a href="https://linkedin.com/in/shaad-bangi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://leetcode.com/shaad98">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode" />
+  <a href="https://leetcode.com/shaad98" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-
-  <a href="https://www.hackerrank.com/shaad-bangi">
+  <a href="https://www.hackerrank.com/shaad-bangi" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-
-  <a href="https://instagram.com/shaad-bangi">
+  <a href="https://instagram.com/shaad-bangi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -60,61 +57,38 @@ I'm particularly interested in:
 ## 🛠️ Tech Stack
 
 ### ☕ Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
+  <img src="https://skillicons.dev/icons?i=java,go,py,c" height="55" alt="Languages" />
 </p>
 
 ### 🚀 Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,redis" height="55" alt="Backend" />
 </p>
 
 ### 🎨 Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,angular" height="55" alt="Frontend" />
 </p>
 
 ### 🐳 Containers & Orchestration
-
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="55" alt="Containers" />
 </p>
 
 ### ☁️ Cloud & Infrastructure
-
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="50" alt="Terraform" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,linux,nginx" height="55" alt="Cloud" />
 </p>
 
 ### 🔄 CI/CD & Version Control
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins" height="55" alt="CI/CD" />
 </p>
 
 ### 🔧 Tools
-
 <p>
-  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="IntelliJ IDEA" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,postman" height="55" alt="Tools" />
 </p>
 
 ---
@@ -267,15 +241,21 @@ I'm especially interested in understanding **why a system is designed a certain 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shaad98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=shaad98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420"
     alt="Shaad's GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaad98&layout=compact&theme=tokyonight&hide_border=true&card_width=280"
+    alt="Shaad's Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaad98&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Shaad's Top Languages"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shaad98&theme=tokyonight&hide_border=true"
+    alt="Shaad's GitHub Streak"
   />
 </p>
 

@@ -1,37 +1,41 @@
 <h1 align="center">Hi 👋, I'm Shaad Bangi</h1>
 
 <h3 align="center">
-Backend Developer | Java & Spring Boot | Cloud & DevOps
+  Backend Developer · Java & Spring Boot · Cloud & DevOps
 </h3>
 
 <p align="center">
-  Building backend systems, learning distributed systems, and exploring cloud infrastructure.
+  Building backend systems, exploring distributed systems, and learning how modern applications run in production.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaad98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/shaad98">
+    <img src="https://komarev.com/ghpvc/?username=shaad98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **backend-focused developer** who enjoys building applications and understanding what happens behind the scenes when they run in production.
+I'm a **backend-focused developer** who enjoys building applications and understanding what happens behind the scenes when they move from development to production.
 
-My current work focuses on **Java, Spring Boot, Microservices, Docker, Kubernetes, AWS, Terraform, PostgreSQL and Redis**.
+My current work revolves around:
 
-I'm also building an **AI-powered RAG platform** to explore how authentication, microservices, asynchronous processing, caching, AI workloads and cloud infrastructure fit together in a real-world system.
+`Java` · `Spring Boot` · `Microservices` · `Docker` · `Kubernetes` · `AWS` · `Terraform` · `PostgreSQL` · `Redis`
 
-I'm particularly interested in:
+I'm also building an **AI-powered RAG platform** to understand how authentication, microservices, asynchronous processing, caching, AI workloads, and cloud infrastructure come together in a real-world system.
 
-- ☕ Backend Engineering
-- 🏗️ Microservices & Distributed Systems
-- 🔐 Authentication & Security
-- 🗄️ Databases & Caching
-- ☁️ Cloud Infrastructure
-- ☸️ Kubernetes & Containers
-- 🤖 AI / RAG Systems
-- 🏗️ Infrastructure as Code
+### Areas I'm Interested In
+
+* ☕ Backend Engineering
+* 🏗️ Microservices & Distributed Systems
+* 🔐 Authentication & Security
+* 🗄️ Databases & Caching
+* ☁️ Cloud Infrastructure
+* ☸️ Containers & Kubernetes
+* 🤖 AI / RAG Systems
+* 🏗️ Infrastructure as Code
 
 ---
 
@@ -57,38 +61,45 @@ I'm particularly interested in:
 ## 🛠️ Tech Stack
 
 ### ☕ Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,go,py,c" height="55" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,go,py,c" height="50" alt="Languages" />
 </p>
 
 ### 🚀 Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,redis" height="55" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,redis" height="50" alt="Backend Technologies" />
 </p>
 
 ### 🎨 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,angular" height="55" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,angular" height="50" alt="Frontend Technologies" />
 </p>
 
 ### 🐳 Containers & Orchestration
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="55" alt="Containers" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="50" alt="Containers and Orchestration" />
 </p>
 
 ### ☁️ Cloud & Infrastructure
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,linux,nginx" height="55" alt="Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,linux,nginx" height="50" alt="Cloud and Infrastructure" />
 </p>
 
 ### 🔄 CI/CD & Version Control
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins" height="55" alt="CI/CD" />
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins" height="50" alt="CI/CD and Version Control" />
 </p>
 
 ### 🔧 Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,postman" height="55" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,postman" height="50" alt="Tools" />
 </p>
 
 ---
@@ -97,64 +108,66 @@ I'm particularly interested in:
 
 ### 🤖 AI-Powered RAG Platform
 
-I'm currently building a **microservices-based AI/RAG platform** designed to explore how modern backend systems are built and deployed.
+I'm currently building a **microservices-based AI/RAG platform** focused on understanding how modern backend systems are designed, secured, deployed, and operated.
 
-### Architecture
+### 🏗️ Architecture
 
 ```text
-                       ┌──────────────────┐
-                       │     Frontend     │
-                       │     Angular      │
-                       └────────┬─────────┘
-                                │
-                                ▼
-                       ┌──────────────────┐
-                       │   API Gateway    │
-                       └────────┬─────────┘
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-       ┌────────────┐    ┌────────────┐    ┌────────────┐
-       │  Identity  │    │  Document  │    │    Chat    │
-       │  Service   │    │  Service   │    │  Service   │
-       └──────┬─────┘    └──────┬─────┘    └──────┬─────┘
-              │                 │                 │
-              ▼                 ▼                 ▼
-       ┌────────────┐    ┌────────────┐    ┌────────────┐
-       │ PostgreSQL │    │ PostgreSQL │    │ PostgreSQL │
-       └────────────┘    └──────┬─────┘    └────────────┘
-                                 │
-                                 ▼
-                        ┌────────────────┐
-                        │   AI Service   │
-                        │    FastAPI     │
-                        └───────┬────────┘
-                                │
-                                ▼
-                        ┌────────────────┐
-                        │ Embeddings /   │
-                        │ Vector Store   │
-                        └────────────────┘
+                            ┌───────────────────┐
+                            │     Angular       │
+                            │    Frontend       │
+                            └─────────┬─────────┘
+                                      │
+                                      ▼
+                            ┌───────────────────┐
+                            │    API Gateway    │
+                            └─────────┬─────────┘
+                                      │
+               ┌──────────────────────┼──────────────────────┐
+               │                      │                      │
+               ▼                      ▼                      ▼
+        ┌──────────────┐       ┌──────────────┐       ┌──────────────┐
+        │   Identity   │       │   Document   │       │     Chat     │
+        │    Service   │       │    Service   │       │    Service   │
+        └──────┬───────┘       └──────┬───────┘       └──────┬───────┘
+               │                      │                      │
+               ▼                      ▼                      ▼
+        ┌──────────────┐       ┌──────────────┐       ┌──────────────┐
+        │  PostgreSQL  │       │  PostgreSQL  │       │  PostgreSQL  │
+        └──────────────┘       └──────┬───────┘       └──────────────┘
+                                      │
+                                      ▼
+                            ┌───────────────────┐
+                            │    AI Service     │
+                            │      FastAPI      │
+                            └─────────┬─────────┘
+                                      │
+                                      ▼
+                            ┌───────────────────┐
+                            │    Embeddings     │
+                            │   Vector Store    │
+                            └───────────────────┘
 ```
 
-### Project Focus
+### 🔍 Project Focus
 
-- 🔐 Authentication & Authorization
-- 🌐 API Gateway
-- 🧩 Spring Boot Microservices
-- ⚡ Redis Token & Cache Management
-- 🐘 PostgreSQL Persistence
-- 🤖 Python AI Processing
-- 📄 Document Processing
-- 🔄 Asynchronous Processing
-- 🐳 Dockerized Services
-- ☸️ Kubernetes Deployment
-- ☁️ AWS Infrastructure
-- 🏗️ Terraform Infrastructure as Code
-- 🔄 CI/CD Automation
+| Area               | Technologies                       |
+| ------------------ | ---------------------------------- |
+| 🔐 Authentication  | JWT · Security · Role-based Access |
+| 🌐 API Layer       | Spring Cloud Gateway               |
+| 🧩 Backend         | Spring Boot · Microservices        |
+| ⚡ Caching          | Redis                              |
+| 🗄️ Persistence    | PostgreSQL                         |
+| 🤖 AI Processing   | Python · FastAPI                   |
+| 📄 Documents       | Upload · Processing · Retrieval    |
+| 🔄 Communication   | Asynchronous Processing            |
+| 🐳 Containers      | Docker                             |
+| ☸️ Orchestration   | Kubernetes                         |
+| ☁️ Cloud           | AWS                                |
+| 🏗️ Infrastructure | Terraform                          |
+| 🔄 Automation      | CI/CD                              |
 
-The main goal is not just to make the application work, but to understand **how backend services, security, infrastructure, networking and deployment fit together in a production-style system**.
+> **Goal:** Understand how backend services, security, networking, infrastructure, AI workloads, and deployment fit together in a production-style architecture — not simply make the application work.
 
 ---
 
@@ -164,74 +177,88 @@ Currently learning and practicing:
 
 ```text
 Docker
+   ↓
 Kubernetes
+   ↓
 AWS
+   ↓
 Terraform
+   ↓
 Linux
+   ↓
 Nginx
+   ↓
 CI/CD
+   ↓
 Jenkins
+   ↓
 GitHub
 ```
 
-### My Learning Path
+### 🔄 Application → Production
 
 ```text
-Application
-     │
-     ▼
-Spring Boot / Microservices
-     │
-     ▼
-Docker
-     │
-     ▼
-CI/CD
-     │
-     ▼
-AWS
-     │
-     ▼
-Terraform
-     │
-     ▼
-Kubernetes
-     │
-     ▼
-Production
+┌────────────────────┐
+│    Application     │
+│ Spring Boot / APIs │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│       Docker       │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│       CI/CD        │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│        AWS         │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│     Terraform      │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│    Kubernetes      │
+└─────────┬──────────┘
+          │
+          ▼
+┌────────────────────┐
+│     Production     │
+└────────────────────┘
 ```
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-☕ Advanced Java & Spring Boot
-🏗️ Microservices Architecture
-🧠 System Design
-☸️ Kubernetes
-☁️ AWS
-🏗️ Terraform
-⚡ Redis & PostgreSQL
-🔄 CI/CD & DevOps
-🤖 AI / RAG Systems
-```
+<p align="left">
+
+`Java & Spring Boot`
+`Microservices Architecture`
+`System Design`
+`Kubernetes`
+`AWS`
+`Terraform`
+`Redis & PostgreSQL`
+`CI/CD & DevOps`
+`AI / RAG Systems`
+
+</p>
 
 ---
 
 ## 🎯 What I Enjoy
 
-I enjoy working on problems related to:
+I enjoy working on problems involving:
 
-- Backend architecture
-- REST APIs
-- Microservices
-- Authentication & Security
-- Databases & Caching
-- Cloud Infrastructure
-- Container Orchestration
-- Distributed Systems
-- AI-powered Applications
+**Backend Architecture** · **REST APIs** · **Microservices** · **Authentication & Security** · **Databases & Caching** · **Cloud Infrastructure** · **Containers** · **Distributed Systems** · **AI-powered Applications**
 
 I'm especially interested in understanding **why a system is designed a certain way**, rather than simply making the code work.
 
@@ -245,9 +272,6 @@ I'm especially interested in understanding **why a system is designed a certain 
     src="https://github-readme-stats.vercel.app/api?username=shaad98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420&cache_seconds=1800"
     alt="Shaad's GitHub Stats"
   />
-</p>
-
-<p align="center">
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaad98&layout=compact&theme=tokyonight&hide_border=true&card_width=420&cache_seconds=1800"
@@ -264,7 +288,7 @@ I'm especially interested in understanding **why a system is designed a certain 
 
 ---
 
-## 📈 GitHub Activity (Full Contribution Calendar)
+## 📈 GitHub Activity
 
 <p align="center">
   <img
@@ -273,12 +297,30 @@ I'm especially interested in understanding **why a system is designed a certain 
   />
 </p>
 
-> This shows the full daily contribution calendar (not just a 31-day window), so every consecutive commit day — starting from when I began committing — shows up as a filled square.
+> Full contribution history showing daily activity across my GitHub journey.
+
+---
+
+## 💡 Current Focus
+
+```text
+Backend Engineering
+        +
+Distributed Systems
+        +
+Cloud & DevOps
+        +
+AI / RAG
+        ↓
+Production-Oriented Engineering
+```
 
 ---
 
 <p align="center">
-  <i>
-    Building backend systems, learning cloud, and getting better one project at a time. 🚀
-  </i>
+  <b>Building backend systems, learning cloud, and getting better one project at a time. 🚀</b>
+</p>
+
+<p align="center">
+  <i>Code → Understand → Build → Deploy → Improve</i>
 </p>

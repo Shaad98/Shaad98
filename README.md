@@ -10,7 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/shaad98">
-    <img src="https://komarev.com/ghpvc/?username=shaad98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img
+      src="https://komarev.com/ghpvc/?username=shaad98&label=Profile%20Views&color=0e75b6&style=flat"
+      alt="Profile Views"
+    />
   </a>
 </p>
 
@@ -43,16 +46,31 @@ I'm also building an **AI-powered RAG platform** to understand how authenticatio
 
 <p align="left">
   <a href="https://linkedin.com/in/shaad-bangi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="https://leetcode.com/shaad98" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+    />
   </a>
+
   <a href="https://www.hackerrank.com/shaad-bangi" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img
+      src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
+      alt="HackerRank"
+    />
   </a>
+
   <a href="https://instagram.com/shaad-bangi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
 </p>
 
@@ -63,43 +81,71 @@ I'm also building an **AI-powered RAG platform** to understand how authenticatio
 ### ☕ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,go,py,c" height="50" alt="Languages" />
+  <img
+    src="https://skillicons.dev/icons?i=java,go,py,c"
+    height="50"
+    alt="Languages"
+  />
 </p>
 
 ### 🚀 Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,redis" height="50" alt="Backend Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=spring,postgres,mongodb,redis"
+    height="50"
+    alt="Backend Technologies"
+  />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,angular" height="50" alt="Frontend Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,angular"
+    height="50"
+    alt="Frontend Technologies"
+  />
 </p>
 
 ### 🐳 Containers & Orchestration
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="50" alt="Containers and Orchestration" />
+  <img
+    src="https://skillicons.dev/icons?i=docker,kubernetes"
+    height="50"
+    alt="Containers and Orchestration"
+  />
 </p>
 
 ### ☁️ Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,linux,nginx" height="50" alt="Cloud and Infrastructure" />
+  <img
+    src="https://skillicons.dev/icons?i=aws,terraform,linux,nginx"
+    height="50"
+    alt="Cloud and Infrastructure"
+  />
 </p>
 
 ### 🔄 CI/CD & Version Control
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins" height="50" alt="CI/CD and Version Control" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,jenkins"
+    height="50"
+    alt="CI/CD and Version Control"
+  />
 </p>
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,postman" height="50" alt="Tools" />
+  <img
+    src="https://skillicons.dev/icons?i=idea,vscode,postman"
+    height="50"
+    alt="Tools"
+  />
 </p>
 
 ---
@@ -239,17 +285,15 @@ GitHub
 ## 📚 Currently Learning
 
 <p align="left">
-
-`Java & Spring Boot`
-`Microservices Architecture`
-`System Design`
-`Kubernetes`
-`AWS`
-`Terraform`
-`Redis & PostgreSQL`
-`CI/CD & DevOps`
-`AI / RAG Systems`
-
+  `Java & Spring Boot` ·
+  `Microservices Architecture` ·
+  `System Design` ·
+  `Kubernetes` ·
+  `AWS` ·
+  `Terraform` ·
+  `Redis & PostgreSQL` ·
+  `CI/CD & DevOps` ·
+  `AI / RAG Systems`
 </p>
 
 ---
@@ -272,11 +316,13 @@ I'm especially interested in understanding **why a system is designed a certain 
     src="https://github-readme-stats.vercel.app/api?username=shaad98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420&cache_seconds=1800"
     alt="Shaad's GitHub Stats"
   />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaad98&layout=compact&theme=tokyonight&hide_border=true&card_width=420&cache_seconds=1800"
-    alt="Shaad's Top Languages"
-  />
+
+<img
+ height="165"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaad98&layout=compact&theme=tokyonight&hide_border=true&card_width=420&cache_seconds=1800"
+ alt="Shaad's Top Languages"
+/>
+
 </p>
 
 <p align="center">
@@ -290,12 +336,11 @@ I'm especially interested in understanding **why a system is designed a certain 
 
 ## 📈 GitHub Activity
 
-
-
 <p align="center">
   <img
     src="https://ghchart.rshah.org/40c463/shaad98"
     alt="Shaad's GitHub Contribution Graph"
+    width="900"
   />
 </p>
 

@@ -291,10 +291,11 @@ I'm especially interested in understanding **why a system is designed a certain 
 ## 📈 GitHub Activity
 
 
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shaad98&bg_color=000000&color=ffffff&line=40c463&point=40c463&area=false&hide_border=true"
-    alt="Shaad's GitHub Activity Graph"
+    src="https://ghchart.rshah.org/40c463/shaad98"
+    alt="Shaad's GitHub Contribution Graph"
   />
 </p>
 

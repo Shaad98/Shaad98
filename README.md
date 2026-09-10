@@ -9,12 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shaad98">
-    <img
-      src="https://komarev.com/ghpvc/?username=shaad98&label=Profile%20Views&color=0e75b6&style=flat"
-      alt="Profile Views"
-    />
-  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=shaad98&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -54,7 +52,7 @@ I'm also building an **AI-powered RAG platform** to understand how authenticatio
 
   <a href="https://leetcode.com/shaad98" target="_blank">
     <img
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"
       alt="LeetCode"
     />
   </a>
@@ -80,72 +78,60 @@ I'm also building an **AI-powered RAG platform** to understand how authenticatio
 
 ### ☕ Languages
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=java,go,py,c"
-    height="50"
-    alt="Languages"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
 </p>
 
 ### 🚀 Backend
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=spring,postgres,mongodb,redis"
-    height="50"
-    alt="Backend Technologies"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" />
 </p>
 
 ### 🎨 Frontend
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=html,css,angular"
-    height="50"
-    alt="Frontend Technologies"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular" />
 </p>
 
 ### 🐳 Containers & Orchestration
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=docker,kubernetes"
-    height="50"
-    alt="Containers and Orchestration"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes" />
 </p>
 
 ### ☁️ Cloud & Infrastructure
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=aws,terraform,linux,nginx"
-    height="50"
-    alt="Cloud and Infrastructure"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="50" alt="Terraform" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx" />
 </p>
 
 ### 🔄 CI/CD & Version Control
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=git,github,jenkins"
-    height="50"
-    alt="CI/CD and Version Control"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="Jenkins" />
 </p>
 
 ### 🔧 Tools
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=idea,vscode,postman"
-    height="50"
-    alt="Tools"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
 </p>
 
 ---
@@ -313,13 +299,13 @@ I'm especially interested in understanding **why a system is designed a certain 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=shaad98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=shaad98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="Shaad's GitHub Stats"
   />
 
 <img
  height="165"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaad98&layout=compact&theme=tokyonight&hide_border=true&card_width=420&cache_seconds=1800"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaad98&layout=compact&theme=tokyonight&hide_border=true"
  alt="Shaad's Top Languages"
 />
 
@@ -327,7 +313,7 @@ I'm especially interested in understanding **why a system is designed a certain 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=shaad98&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shaad98&theme=tokyonight&hide_border=true"
     alt="Shaad's GitHub Streak"
   />
 </p>

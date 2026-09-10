@@ -290,12 +290,16 @@ I'm especially interested in understanding **why a system is designed a certain 
 
 ## 📈 GitHub Activity
 
+## 📈 GitHub Activity
+
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/40c463/shaad98"
+    src="https://ghchart.rshah.org/000000/shaad98"
     alt="Shaad's GitHub Contribution Graph"
   />
 </p>
+
+> Full contribution history showing daily activity across my GitHub journey.
 
 > Full contribution history showing daily activity across my GitHub journey.
 
